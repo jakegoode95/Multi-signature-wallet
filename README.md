@@ -2,7 +2,7 @@
 
 **version 1.0.0**
 
-Code and creation for Multi-signature-wallet
+Code and creation for Multi-signature-wallet:
 
 
 Simple multisignature wallet which allows you to set the amount of addresses who can be approvers and the limit of how many need to approve to release funds for a transfer.
